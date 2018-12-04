@@ -1,4 +1,4 @@
-# test-project
+# Vue Pet Project
 
 > A Vue.js project
 
